@@ -1,13 +1,4 @@
-# 🦋 TypeScript TDD Template
-
-⚡ Start your Node.js project with Typescript using Test Driven Development (TDD) practices.
-
-### 📋 GitHub Actions Workflow:
-
-[![🏠 Build](https://github.com/AraManjon/typescript-tdd-template/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/AraManjon/typescript-tdd-template/actions/workflows/build.yml)
-
-This GitHub Actions workflow automatically builds and tests the application when code changes are pushed to the master branch or a pull request targeting the master branch is opened or synchronized.
-
+### 
 ### 📥 Installation
 
 To get started with this template, you first need to clone the repository:
